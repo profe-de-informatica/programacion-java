@@ -18,9 +18,9 @@ Para ello he elegido trabajar con el IDE [Netbeans](https://netbeans.org/) que e
 
 Netbeans puede ser ejecutado en equipos con sistemas operativos Windows, Linux o Mac OS en sus diferentes arquitecturas de 32 o 64 bits. Para ahorrarnos el descargar por un lado JDK y por otro lado netbeans vamos a descargar e instalar una versión en la que ya viene todo. Para ello nos dirigiremos a [http://www.oracle.com/technetwork/articles/javase/jdk-netbeans-jsp-142931.html](http://www.oracle.com/technetwork/articles/javase/jdk-netbeans-jsp-142931.html) y descargaremos e instalaremos la versión que se corresponda a nuestro sistema operativo. A continuación he realizado 2 videotutoriales en los que muestro como proceder en Windows 7 y Ubuntu 16.04 LTS.
 
-{% youtube %}https://youtu.be/DldsDzidscg?list=PL1ubUMkNBAR_98ka0Q393l3fpzSjo3FGq{% endyoutube %}
+https://youtu.be/DldsDzidscg?list=PL1ubUMkNBAR_98ka0Q393l3fpzSjo3FGq
 
-{% youtube %}https://youtu.be/gm2ICqWz4P8?list=PL1ubUMkNBAR_98ka0Q393l3fpzSjo3FGq{% endyoutube %}
+https://youtu.be/gm2ICqWz4P8?list=PL1ubUMkNBAR_98ka0Q393l3fpzSjo3FGq
 
 Si queremos prescindir del uso de un entorno de desarrollo integrado podemos hacerlo, aunque yo no lo haría con mi alumnado excepto que trabajase con ellos en FP de la familia de Informática y comunicaciones. En el siguiente [enlace](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java/Primer_programa) tenemos un pequeño manual en el cual nos explican como hacer la compilación y ejecución a través del terminal (previamente habrá que haber instalado el JDK). No obstante a lo largo del curso haré uso de NetBeans en mis explicaciones y vídeos con el fin de facilitar la tarea a docentes y alumnado.
 
