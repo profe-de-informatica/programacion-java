@@ -2,8 +2,6 @@
 
 ## Autoría
 
-* {{ book.author }}
-
 <!--
 ### Colaboradores:
 
