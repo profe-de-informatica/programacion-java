@@ -12,4 +12,4 @@ El diagrama de clases resultante del enunciado anterior sería el siguiente:
 
 Vamos a ver como implementarlo en el siguiente vídeo:
 
-{% youtube %}https://youtu.be/o330-623xrI{% endyoutube %}
+https://youtu.be/o330-623xrI
